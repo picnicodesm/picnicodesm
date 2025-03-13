@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Picnic, iOS Developer. 😊
+
 <!--
 **picnicodesm/picnicodesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
